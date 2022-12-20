@@ -16,7 +16,7 @@ packages:
     source: hosted
     version: "2.1.0"
   bouncing_widget:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: bouncing_widget
       url: "https://pub.dartlang.org"
